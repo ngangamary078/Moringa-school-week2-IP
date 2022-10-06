@@ -18,16 +18,26 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 - You will learn how Ghana children names corresponds to the day in the week they were born.
 - The project is easy-to-understand
 - Just click on the hyperlinks that will direct you to view Github projects.
-- Git clone https://github.com/ngangamary078/Moringa-school-week2-IP.git
-- Open cloned code on VS code
-- Run on live server
+
 
 ## Known Bugs
 
 There are no known bugs on this project
+## Technologies Used
+
+Languages used include HTML, JS and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+
+## Support and contact details
+
+If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: ngangamary078@gmail.com to make a contribution to the code or for any assistance on the app/project.
+
+## github link
+
+https://github.com/ngangamary078/
+
 ## Live link
 
-To be able to view the project click on https://ngangamary078.github.io/Moringa-school-week2-IP/
+ https://ngangamary078.github.io/Moringa-school-week2-IP/
 
 ### License
 
