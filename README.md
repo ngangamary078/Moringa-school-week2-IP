@@ -1,8 +1,12 @@
-# Mary's Akan Age Calculator
+## Project name.
+
+Mary's Akan Age Calculator
 
 #### This project is about the Akan age calculator, Version Date: 7th Oct 2022
 
-#### By **Mary Ng'ang'a**
+## Author
+
+Mary Ng'ang'a
 
 ## Description
 
@@ -32,11 +36,15 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 
  
 
-I have been built this web page using visual studio code, Javascript, git bash and the uploading on Github.
+I have built this web page using visual studio code, Javascript, git bash and then uploading on Github.
 
  
 
 ## BDD
+-See a  small description of what the application does on the landing page.
+-Enter my birthday through a form 
+-Choose what gender I am.
+-Click the submit button to see what my Akan name would be
 
 ## Setup/Installation Requirements
 
@@ -52,7 +60,7 @@ I have been built this web page using visual studio code, Javascript, git bash a
 There are no known bugs on this project
 ## Technologies Used
 
-Languages used include HTML, JS and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+Languages used include HTML, JS and CSS, Bootstrap. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
 
 ## Support and contact details
 
