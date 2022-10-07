@@ -60,7 +60,7 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 
 ## github link
 
-https://github.com/ngangamary078/
+https://github.com/ngangamary078/Moringa-school-week2-IP.git
 
 ## Live link
 
