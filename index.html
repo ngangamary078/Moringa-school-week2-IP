@@ -11,7 +11,7 @@
     <title>Akan Age Calculator</title>
 </head>
 <body>
-  <div> class="container"
+  <div class="container">
     <div class="jumbotron">
       <br />
 <h1>Akan Age Calculator</h1>
@@ -33,60 +33,9 @@
     <div>
     <br>
 <br>
-<div class="container"
   <p id="p2">Most people do know when their birthdays are, but some might not know what day of the week they were born. There are ways to calculate the day of the week from a specific date using gender outputs and get Akan Name as idicated below</p>        
 <br>
-<br>
-<p>id="p2">To get your Akan name, kindly fill the form below and we will calculate it for you</p>
-</div>
-<br>
-<div class="overlay">
-<div class="container">
 
-      <h2>Enter Your Age and Gender in Form below!</h2>
-
-      <form name="myForm" class="form" onsubmit="validate();">
-
-        <div class="form-group">
-
-          <label for="number">Year of Birth:</label>
-
-          <input type="number" class="form-control" id="year" 
-        placeholder="Year of Birth Eg: 2020 if born in 2022" name="year">
-        </div>
-        <div class="form-group">
-          <label for="month">Month of Birth:</label>
-          <input type="number" class="form-control" id="month" 
-        placeholder="Month of Birth eg 01 for Jan" name="month">
-        </div>
-        <div class="form-group">
-          <label for="date">Date of Birth:</label>
-          <input type="number" class="form-control" id="date" 
-        placeholder="Date of Birth eg 05 for day" name="date">
-        </div>
-        <div class="form-group">
-          <label for="month">Gender</label><br>
-
-          <div class="form-check-inline">
-
-            <label class="form-check-label">
-
-              <input type="radio" class="form-check-input"name="gender" 
-  id="male">&nbsp; Male
-            </label>
-          </div>
-          <div class="form-check-inline">
-            <label class="form-check-label">
-              <input type="radio" class="form-check-input" name="gender" 
-  id="female">&nbsp; Female
-            </label>
-          </div>
-        </div>
-        <button type="submit" class="btn btn-primary" 
-  onclick="findName();">Find Your Akan Name</button>
-        <br>
-      </form>
-      <p id="results"> </p>
     </div>
 </div>
 <div class="card-deck">
@@ -138,6 +87,10 @@
         ></p>
       </div>
       <div>
+        <button onclick="JSmain()">Click to Find Your Akan Name!</button>
+
+        <p id="output"class=".akan.name">This is the output</p>
+
         <script src="/js/JSmain.js"></script>
       </div>
 </body>
