@@ -41,9 +41,15 @@ I have built this web page using visual studio code, Javascript, git bash and th
  
 
 ## BDD
--See a  small description of what the application does on the landing page.
--Enter my birthday through a form -Choose what gender I am.
--Click the submit button to see what my Akan name would be
+
+- See a  small description of what the application does on the landing page.
+
+- Enter my birthday through a form.
+
+- Choose what gender I am.
+
+- Click the submit button to see what my Akan name would be
+
 
 ## Setup/Installation Requirements
 
