@@ -48,3 +48,4 @@ outputElement.innerHTML = "You were born on: "+ output[0] +".Your Akan name is:"
 outputElement.classList.add("akan.name");
 }
 
+
