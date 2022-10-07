@@ -45,5 +45,6 @@ var output = calcuteNameAndDay(userInputCentury, userInputyear, userInputmonth, 
 var outputElement = document.getElementById("output");
 outputElement.innerHTML = "You were born on: "+ output[0] +".Your Akan name is:"+ output[1];
 
+outputElement.classList.add("akan.name");
 }
 
