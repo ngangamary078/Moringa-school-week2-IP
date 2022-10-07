@@ -17,14 +17,14 @@ function myAkannameCalculator(){
         
             fullGender = "Male";
             outPut = 'Your Akan name is '+ maleNames[birthDay] + ' because you are a '+ fullGender +  ' born on a ' + daysOfWeek[birthDay] + "!" ;
-            console.log (outPut);
+            alert (outPut);
         }
 
         else {
         
             fullGender = "Female";
             outPut = 'Your Akan name is '+ femaleNames[birthDay] + ' because you are a '+ fullGender +  ' born on a ' + daysOfWeek[birthDay] + "!" ;
-            console.log (outPut);
+            alert (outPut);
 
         }
     
@@ -32,7 +32,7 @@ function myAkannameCalculator(){
 
     else {
     
-        console.log ("Invalid gender. Reply with M for Male and F for Female");
+        alert("Invalid gender. Reply with M for Male and F for Female");
 
     }
 }
