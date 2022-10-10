@@ -1,6 +1,6 @@
 ## Project name.
 
-Mary's Akan Age Calculator
+Akan Age Calculator
 
 #### This project is about the Akan age calculator, Version Date: 7th Oct 2022
 
@@ -33,10 +33,6 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 | Friday    | Kofi     | Afua       |
 
 | Saturday  | Kwame    | Ama        |
-
- 
-
-I have built this web page using visual studio code, Javascript, git bash and then uploading on Github.
 
  
 
